@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+*.ipynb
+.pytest_cache
+.cache
+.idea
+.ipynb_checkpoints
+logs
+logs/*
+tmp
+_output
+_output/*
